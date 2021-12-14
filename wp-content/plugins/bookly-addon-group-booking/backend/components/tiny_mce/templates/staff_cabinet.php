@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<tr><td><label><input type="checkbox" data-read-only="capacity" /> <?php esc_html_e( 'Disable capacity update', 'bookly' )?></label></td></tr>

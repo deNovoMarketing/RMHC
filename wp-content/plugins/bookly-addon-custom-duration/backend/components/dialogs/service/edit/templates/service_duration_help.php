@@ -1,0 +1,2 @@
+<?php  if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<small class="form-text text-muted"><?php esc_html_e( 'Set service duration. If you select Custom, a client, while booking, will have to choose the duration of the service from several time units. In the "Unit Price" field specify the cost of 1 unit, so the total cost of the service will increase linearly with the increase of its duration.', 'bookly' ) ?></small>
